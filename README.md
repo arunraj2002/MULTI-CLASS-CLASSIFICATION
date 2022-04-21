@@ -41,7 +41,8 @@ pyplot.show()
 ```
 
 ## Output:
-![multi class classification plot](XXX.png)
+
+<img width="338" alt="EX03 Multi-class" src="https://user-images.githubusercontent.com/75235747/164511282-431a3005-d35c-4086-b641-32db6c4596a2.png">
 
 
 ## Result:
